@@ -1,4 +1,4 @@
-# COMP207 Notes
+# COMP201 Notes
 
 AI-generated notes for COMP201 - Software Engineering taught at the University of Liverpool.
 
